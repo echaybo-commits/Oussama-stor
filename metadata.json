@@ -1,0 +1,8 @@
+{
+  "name": "Remix youstor",
+  "description": "منصة تجارة إلكترونية متعددة المتاجر تضم لوحة تحكم للبائعين وواجهات متاجر مستقلة مرتبطة عبر API داخلي وقاعدة بيانات مركزية مشفرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
